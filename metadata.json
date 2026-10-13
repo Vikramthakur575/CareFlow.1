@@ -1,0 +1,6 @@
+{
+  "name": "CareFlow - Patient Appointment Booking System",
+  "description": "Production-minded healthcare appointment booking system with public doctor discovery, transactional slot booking, patient portal, and clinic administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
